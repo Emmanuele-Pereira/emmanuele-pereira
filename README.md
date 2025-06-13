@@ -1,5 +1,5 @@
-# Welcome 🌙  
-*(This README is in English to connect with more people — I trust in your potential ❤️)*
+# Welcome 💗
+
 
 <div align="center">
 <img height="100" width="300" alt="GIF" align="center" src="https://media1.tenor.com/m/ObYdXXtzknEAAAAC/hacker-anime-hack.gif">
