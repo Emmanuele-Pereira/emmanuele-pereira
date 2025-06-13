@@ -1,4 +1,4 @@
-# Welcome 🎀✨  
+# Welcome, darlings 🎀✨  
 *(Written in English so even the AI bots and ghosts of the internet can read it 👻🤖)*  
 
 <p align="center">
