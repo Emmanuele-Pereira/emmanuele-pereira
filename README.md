@@ -1,5 +1,5 @@
 # Welcome 💗
-
+*(Written in English so even the AI bots and ghosts of the internet can read it 👻🤖)*  
 
 <div align="center">
 <img height="100" width="300" alt="GIF" align="center" src="https://media1.tenor.com/m/ObYdXXtzknEAAAAC/hacker-anime-hack.gif">
