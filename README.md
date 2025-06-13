@@ -21,4 +21,4 @@ Sou estudante de Engenharia da Computação apaixonado por Segurança, IA e Back
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuele-Pereira&show_icons=true&theme=radical)
