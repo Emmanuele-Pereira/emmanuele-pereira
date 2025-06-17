@@ -33,16 +33,31 @@
 <img src="https://img.icons8.com/fluency/48/000000/spain-circular.png" title="Spanish - Basic" alt="Spanish" width="60" height="60"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/brazil-circular.png" title="Portuguese - Native" alt="Portuguese" width="60" height="60"/>&nbsp;
 
+
+
 </p>
 
-# Learning & Interests 🌷💻💗:
+<h2 align="left">Learning & Interests 🌷💻💗:</h2>
 
-- 🔐 Cybersecurity (ethical hacking, secure coding)  
-- 🤖 AI & Machine Learning fundamentals  
-- 🗄️ Advanced Database Modeling & Design (SQL, PostgreSQL)  
-- ⚙️ Backend Development with Node.js, Java, Python  
-- 🐳 DevOps essentials (Linux, Docker, GitHub Actions)  
-- 💫 API design & architecture (RESTful APIs)
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20px;">
+      
+<ul>
+  <li>🔐 <strong>Cybersecurity</strong> (ethical hacking, secure coding)</li>
+  <li>🤖 <strong>AI & Machine Learning fundamentals</strong></li>
+  <li>🗄️ <strong>Advanced Database Modeling & Design</strong> (SQL, PostgreSQL)</li>
+  <li>💻 <strong>Backend Development</strong> with Node.js, Java, Python</li>
+  <li>🐳 <strong>DevOps Essentials</strong> (Linux, Docker, GitHub Actions)</li>
+  <li>🔗 <strong>API Design & Architecture</strong> (RESTful APIs)</li>
+</ul>
+    </td>
+    <td valign="top">
+      <img src="https://media.tenor.com/1cw2Ydij5ZoAAAAi/sanrio.gif" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 # Languages & Tools 👩‍💻🎀  
 </br>
