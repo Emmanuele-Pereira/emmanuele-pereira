@@ -71,16 +71,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
 
-</p>
-
----
-
-## 🌟 Featured Projects  
-
-- **[secure-api-template](https://github.com/emmanuele-pereira/secure-api-template)** → REST API template with JWT authentication, rate limiting, and automated tests.  
-- **[sql-modeling](https://github.com/emmanuele-pereira/sql-modeling)** → SQL scripts, views, and triggers for a sales scenario.  
-- **[zeev-integrations](https://github.com/emmanuele-pereira/zeev-integrations)** → Practical examples of integrations between Zeev and external systems (REST/JSON/XML).  
-- **[ai-notebooks-playground](https://github.com/emmanuele-pereira/ai-notebooks-playground)** → Machine Learning study notebooks in Python (Jupyter).  
+</p>  
 
 ---
 
